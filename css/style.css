@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;500;600;700&display=swap");
+	
+
+	@font-face {
+  font-family: "Manrope";
+  src:    url(../fonts/Manrope.ttf) format("TrueType") 
+}
+
+
+header{
+	background-color: #000;
+	}
+
+#hero{
+	background-image: url("../img/index-fondo-pantalla.jpg");
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	padding: 15% 0 0;
+	height: 100vh;
+	}
+
+body{
+	font-family: 'Manrope', sans-serif;
+	}
+
+.link-1{
+	text-decoration: none;
+	color: #fff;
+	font-size: 50px;
+	display:block;
+	}
+
+.header{
+	margin: 30px 0;
+	}
+
+#zone {
+	padding: 100px 0;
+}
+
+#zone .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+#zone h2{
+font-size: 60px;
+	color: #000;
+}
+
+#iron {
+	padding: 50px 0;
+}
+
+#iron .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#iron h2{
+	font-size: 60px;
+	color: #000;
+}
+
+#ladybird {
+	padding: 60px 0;
+}
+
+
+#ladybird .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#ladybird h2{
+	font-size: 60px;
+	color: #000;
+}
+
+
+
+footer{
+	background-color: black;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+
+footer p{
+	color: white;
+}
+
+footer i{
+	color: white;
+	font-size: 40px;
+}
+
+footer img{
+	margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

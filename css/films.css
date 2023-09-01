@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;500;600;700&display=swap");
+	
+
+	@font-face {
+  font-family: "Manrope";
+  src:    url(../fonts/Manrope.ttf) format("TrueType") 
+}
+
+header{
+	background-color: #000;
+	}
+
+.header{
+	margin: 30px 0;
+	}
+
+body{
+	font-family: 'Manrope', sans-serif;
+	}
+
+.link{
+	text-decoration: none;
+	color: #000;
+	}
+
+#films{
+	padding: 100px 0;
+}
+
+
+footer{
+	background-color: black;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+
+footer p{
+	color: white;
+}
+
+footer i{
+	color: white;
+	font-size: 40px;
+}
